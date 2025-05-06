@@ -1,4 +1,4 @@
-// nvcc -o matrix_mul matrix_mul.cu
+// nvcc -o addition_vec(file name) addition_vec.cu(with extention)
 // ./matrix_mul
 // .cu
 

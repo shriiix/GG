@@ -144,4 +144,22 @@ for image, label in zip(images, labels):
     x += 1
 
 # ---
+# 🔧 Purpose:
+# Custom implementation of a text classification task.
+
+# May involve building your own embedding or preprocessing pipeline.
+
+# 🧰 Libraries:
+# Same core ones: tensorflow, sklearn, matplotlib, numpy.
+
+# Likely includes more hands-on preprocessing (cleaning text, tokenizing).
+
+# ⚙️ What’s different:
+# More manual setup.
+
+# You see how data flows from raw text → preprocessing → model → evaluation.
+
+# Helps understand how text is turned into numbers and how neural networks handle it.
+
+
 

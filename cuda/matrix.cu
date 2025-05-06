@@ -1,4 +1,4 @@
-// nvcc -o matrix_mul matrix_mul.cu
+// nvcc -o matrix_mul)file name) matrix_mul.cu (with extenstion)
 // ./matrix_mul
 // .cu
 

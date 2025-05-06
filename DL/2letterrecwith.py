@@ -110,3 +110,32 @@ plt.show()
 
 # ---
 
+
+# 🔧 Purpose:
+# Build a neural network to detect if a movie review is positive or negative.
+
+# Use TensorFlow Hub embeddings (pre-trained text understanding model).
+
+# 🧰 Key Libraries:
+# tensorflow, tensorflow_hub, tensorflow_datasets – build, load data, and use pre-trained text embeddings.
+
+# sklearn – for evaluating model performance.
+
+# matplotlib, seaborn – for visualizations.
+
+# mlxtend – for confusion matrix plotting.
+
+# tqdm – to show progress bars.
+
+# warnings – to hide unnecessary warnings.
+
+# ⚙️ What the model does:
+# Loads IMDB movie reviews dataset.
+
+# Uses a pre-trained text embedder to convert text into numbers.
+
+# Builds a neural network with 3 layers.
+
+# Trains it to classify reviews as positive/negative.
+
+# Evaluates and visualizes performance (accuracy, loss, confusion matrix).

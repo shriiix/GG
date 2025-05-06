@@ -102,3 +102,17 @@ plt.show()
 
 # ---
 
+
+#  Lab 2 (Without TensorFlow Hub Embedding)
+# 🔧 Purpose:
+# Similar goal as original Lab 2 but does not use a pre-trained embedding.
+
+# Likely uses a simpler text vectorization (e.g., tokenizer, bag-of-words, or custom embedding layer).
+
+# 🧰 Key Differences:
+# No tensorflow_hub.
+
+# Probably includes Tokenizer, TextVectorization, or manually created word embeddings.
+
+# Why do this version?
+# To learn how to handle raw text without relying on pre-trained models.

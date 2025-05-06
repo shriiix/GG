@@ -99,3 +99,19 @@ def regression_metrics_display(y_test, y_pred):
 # ---
 
 regression_metrics_display(y_test, y_pred)
+
+# 🔧 Purpose:
+# Introduce basic machine learning with simple datasets.
+
+# Use libraries like NumPy, Pandas, Matplotlib, Scikit-learn.
+
+# Train your first model (e.g., linear regression or classification).
+
+# 🧰 Libraries:
+# numpy – for numerical operations.
+
+# pandas – for handling datasets (like spreadsheets).
+
+# matplotlib.pyplot / seaborn – for plotting graphs.
+
+# sklearn – provides tools to split data, build models, and measure performance.
